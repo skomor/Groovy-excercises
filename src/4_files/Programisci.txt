@@ -1,0 +1,5 @@
+Piotr Skomorowski	Projekt1	Projekt2	Projekt4	
+Piotr Skomorowski2	Projekt1	Projekt2	Projekt3	Projekt4	
+Piotr Skomorowski3	Projekt1	Projekt3	Projekt4	
+Piotr Skomorowski4	Projekt1	Projekt4	
+Jan Skomorowski2	Projekt2	

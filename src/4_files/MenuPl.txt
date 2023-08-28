@@ -1,0 +1,4 @@
+Pierwsze 15
+Drugie 5
+Trzecie 20
+Deser 30

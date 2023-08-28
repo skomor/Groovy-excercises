@@ -1,0 +1,4 @@
+Projekt1	Piotr Skomorowski	Piotr Skomorowski2	Piotr Skomorowski3	Piotr Skomorowski4
+Projekt2	Piotr Skomorowski	Jan Skomorowski2	Piotr Skomorowski2	
+Projekt3	Piotr Skomorowski2	Piotr Skomorowski3	
+Projekt4	Piotr Skomorowski	Piotr Skomorowski2	Piotr Skomorowski3	Piotr Skomorowski4
